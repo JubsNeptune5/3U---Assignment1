@@ -67,5 +67,13 @@ public class A1Q3 {
         han.turnLeft();
         han.move();
         han.turnLeft();
+        han.move();
+        han.turnLeft();
+        han.turnLeft();
+        han.turnLeft();
+        han.move();
+        han.move();
+        han.turnLeft();
+        
 }
 }
