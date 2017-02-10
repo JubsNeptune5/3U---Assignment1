@@ -12,7 +12,7 @@ import becker.robots.Thing;
 import becker.robots.Wall;
 
 /**
- *
+ *two robots meeting and picking up things
  * @author hunterlaverty
  */
 public class A1Q5 {
